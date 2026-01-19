@@ -3,11 +3,11 @@
 </div>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=AvneeshKumarJha&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=TechNinja15&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 <h2 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33B1FF&right=true&width=435&lines=B.Tech+CSE+Student;Amity+University+Chhattisgarh;Full+Stack+Developer;Tech+Enthusiast" />
 </h2>
 
 <div align="center">
@@ -21,17 +21,15 @@
 ### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvneeshKumarJha&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvneeshKumarJha&theme=merko&hide_border=false&include_all_commits=true&v=1" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AvneeshKumarJha&layout=compact&theme=merko&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechNinja15&show_icons=true&count_private=true&theme=merko&hide_border=false" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechNinja15&theme=merko&hide_border=false&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechNinja15&layout=compact&theme=merko&hide_border=false" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvneeshKumarJha&theme=merko&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechNinja15&theme=merko&hide_border=false" width="100%" />
 </div>
 
 ---
@@ -41,25 +39,23 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 </div>
 
 <br>
@@ -93,7 +89,7 @@
 ### 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AvneeshKumarJha/AvneeshKumarJha/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/TechNinja15/TechNinja15/output/snake.svg" />
 </div>
 
 <br>
