@@ -3,8 +3,8 @@
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student+ at+ AMITY+ UNIVERSITY+ CHHATTISGARH;Full+Stack+Developer;Learning+AI+/+ML;System+Online..." alt="Typing SVG" />
-</div>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student+at+AMITY+UNIVERSITY+CHHATTISGARH;Full+Stack+Developer;Learning+AI%2FML;System+Online..." alt="Typing SVG" />
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Techninja15&label=Network%20Hits&color=0e75b6&style=flat-square" alt="Views" />
@@ -16,7 +16,7 @@
 ### 🌐 **Live Ecosystem**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,java,mysql,git,supabase,vscode,github,,fastapi,vercel&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,java,jupyter,git,mongodb,supabase,vscode,github,,fastapi,vercel&perline=9&theme=dark" />
 </div>
 
 
