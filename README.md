@@ -16,7 +16,7 @@
 ### 🌐 **Live Ecosystem**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,java,jupyter,git,mongodb,supabase,vscode,github,fastapi,vercel&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,java,mysql,git,mongodb,supabase,vscode,github,fastapi,vercel&perline=9&theme=dark" />
 </div>
 
 
