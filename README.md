@@ -3,7 +3,7 @@
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student;Full+Stack+Developer;AI+/+ML+Researcher;Ethical+Hacker;System+Online..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student+ at+ AMITY+ UNIVERSITY+ CHHATTISGARH;Full+Stack+Developer;Learning+AI+/+ML;System+Online..." alt="Typing SVG" />
 </div>
 
 <div align="right">
@@ -16,8 +16,9 @@
 ### 🌐 **Live Ecosystem**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,mysql,git,firebase,opencv,figma,linux,vscode,discord,postman,github,vercel,powershell&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,java,mysql,git,supabase,vscode,github,canva,excel,vercel,powershell&perline=9&theme=dark" />
 </div>
+
 
 ---
 
