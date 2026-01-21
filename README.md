@@ -3,7 +3,7 @@
   
   <br>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student+at+AMITY+UNIVERSITY+CHHATTISGARH;Full+Stack+Developer;Learning+AI%2FML;System+Online..." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33B1FF&center=true&vCenter=true&width=500&lines=Establishing+Secure+Connection...;B.Tech+CSE+Student+at+AUC;Full+Stack+Developer;Learning+AI%2FML;System+Online..." alt="Typing SVG" />
 
 
 <div align="right">
@@ -48,10 +48,10 @@
 <img align="right" height="150" src="https://image2url.com/r2/bucket2/gifs/1767882764647-9e348ace-5117-40b4-8721-08f975b99414.gif" />
 
 <div align="left">
-  💻 <b>Currently coding:</b> Custom Portfolio<br>
-  🚀 <b>Exploring:</b> Machine Learning Paradigms<br>
-  🧠 <b>Learning:</b> Advanced Penetration Testing<br>
-  💬 <b>Ask me about:</b> Web Dev & Ethical Hacking
+  💻 <b>Currently coding:</b> Developing some Normal Projects 😅<br>
+  🚀 <b>Exploring:</b> AI and Machine Learning<br>
+  🧠 <b>Learning:</b> Core DSA Concepts<br>
+  💬 <b>Ask me about:</b> Web Dev
 </div>
 
 ---
