@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 **Live Ecosystem**
+###  **TECH STACK**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,java,mysql,git,mongodb,supabase,vscode,github,fastapi,vercel&perline=9&theme=dark" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 📊 **Real-Time Data Streams**
+###  **STATS & LANG USED**
 
 <div align="center">
 <table border="0">
@@ -45,7 +45,7 @@
 
 ---
 
-### ⚙️ **Current Operation**
+###  **Currently Working**
 
 <img align="right" height="150" src="https://image2url.com/r2/bucket2/gifs/1767882764647-9e348ace-5117-40b4-8721-08f975b99414.gif" />
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 🌐 **Connect In The Matrix**
+###  **Connect with Me**
 
 <div align="left">
   <a href="https://www.instagram.com/its_avneesh_15/" target="_blank">
@@ -80,7 +80,7 @@
 
 ---
 
-### 🐍 **Contribution Snake**
+### **Contribution Snake Animation**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Techninja15/Techninja15/output/snake.svg" alt="Snake animation" />
