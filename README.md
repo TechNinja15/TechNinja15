@@ -25,20 +25,22 @@
 ### 📊 **Real-Time Data Streams**
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Techninja15&show_icons=true&count_private=true&theme=merko&hide_border=true&border_radius=10" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Techninja15&layout=compact&theme=merko&hide_border=true&border_radius=10" height="170" />
-      </td>
-    </tr>
-  </table>
+<table border="0">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=TechNinja15&show_icons=true&count_private=true&theme=merko&hide_border=true&border_radius=10&cache_seconds=1800" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNinja15&layout=compact&theme=merko&hide_border=true&border_radius=10&cache_seconds=1800" height="170" />
+</td>
+</tr>
+</table>
 
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techninja15&theme=merko&hide_border=true&area=true" width="100%" />
+<br>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechNinja15&theme=merko&hide_border=true&area=true&cache_seconds=1800" width="100%" />
 </div>
 
 ---
