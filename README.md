@@ -59,19 +59,19 @@
 ### 🌐 **Connect In The Matrix**
 
 <div align="left">
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/its_avneesh_15/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://wa.me/918926103959" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:avneeshjha1506@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/avneesh-kumar-jha-443034319/?originalSubdomain=in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/" target="_blank">
+  <a href="https://x.com/Avneesh_Coder15" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
