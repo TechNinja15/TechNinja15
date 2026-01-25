@@ -89,7 +89,10 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quote" />
+  <img
+    src="https://krishna-quotes-y7ci.vercel.app/api/quote"
+    alt="Shri Krishna Quote"
+  />
 </div>
 
 <div align="center">
