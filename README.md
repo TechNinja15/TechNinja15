@@ -25,16 +25,19 @@
 ###  **STATS & LANG USED**
 
 <div align="center">
-<table border="0">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TechNinja15&theme=github_dark" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TechNinja15&theme=github_dark" height="170" />
-</td>
-</tr>
-</table>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=techninja15&show_icons=true&count_private=true&bg_color=000000&hide_border=false&border_radius=10&title_color=FFFF00&icon_color=FFFF00%22%20/%3E" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=techninja15&layout=compact&theme=rose_pine&bg_color=000000&hide_border=false&border_radius=10&title_color=FF0000" height="170" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=rose_pine&hide_border=true&area=true&color=FF0000" width="100%" />
+</div>
 
 
 <br>
