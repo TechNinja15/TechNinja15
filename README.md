@@ -35,8 +35,6 @@
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitn23&theme=rose_pine&hide_border=true&area=true&color=FF0000" width="100%" />
 </div>
 
 
